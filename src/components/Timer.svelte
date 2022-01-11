@@ -18,6 +18,9 @@
   {timerString}
   <p>{propsString}</p>
 </div>
+<button>ok</button>
+<button data-testid="cancel">cancel</button>
+<p>paragraph</p>
 
 <style>
   .timer {
