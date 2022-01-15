@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="timer svelte-wrx3ph"
+    >
+      undefined
+       =&gt; 
+      undefined
+    </div>
+  </div>
+</body>
+`;

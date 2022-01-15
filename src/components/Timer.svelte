@@ -15,13 +15,12 @@
 </script>
 
 <div class="timer">
-  {timerString}
-  <p>{propsString}</p>
+  {propsString}{timerString}
 </div>
-<button>ok</button>
-<button data-testid="cancel">cancel</button>
-<p>paragraph</p>
 
+<!-- <button>ok</button>
+<button data-testid="cancel">cancel</button>
+<p>paragraph</p> -->
 <style>
   .timer {
     font-size: 3.5rem;
